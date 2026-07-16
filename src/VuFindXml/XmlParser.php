@@ -1,7 +1,7 @@
 <?php
 
 /**
- * XML parser
+ * XML parser.
  *
  * PHP version 8
  *
@@ -32,7 +32,7 @@ declare(strict_types=1);
 namespace VuFindXml;
 
 /**
- * XML parser
+ * XML parser.
  *
  * This is a light-weight XML parser inspired by sabre-xml. The deserialization format is slightly different, though.
  * And feature set is limited.
