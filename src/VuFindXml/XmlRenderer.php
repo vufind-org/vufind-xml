@@ -1,7 +1,7 @@
 <?php
 
 /**
- * XML Renderer
+ * XML Renderer.
  *
  * PHP version 8
  *
@@ -37,7 +37,7 @@ use XMLWriter;
 use function count;
 
 /**
- * XML Renderer
+ * XML Renderer.
  *
  * This is a simple XML renderer.
  *
@@ -64,14 +64,14 @@ class XmlRenderer
     protected bool $omitNamespacePrefixes;
 
     /**
-     * XML Writer
+     * XML Writer.
      *
      * @var XMLWriter
      */
     protected XMLWriter $writer;
 
     /**
-     * Constructor
+     * Constructor.
      *
      * @param array   $parsed                 Array of parsed data
      * @param ?string $defaultNamespace       Default namespace for elements missing a namespace, or null for none

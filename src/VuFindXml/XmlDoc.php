@@ -1,7 +1,7 @@
 <?php
 
 /**
- * XML Document
+ * XML Document.
  *
  * PHP version 8
  *
@@ -38,7 +38,7 @@ use function in_array;
 use function is_array;
 
 /**
- * XML Document
+ * XML Document.
  *
  * @category VuFindXml
  * @package  VuFindXml
@@ -366,7 +366,7 @@ class XmlDoc
     }
 
     /**
-     * Get the string value of a node
+     * Get the string value of a node.
      *
      * @param array $node Node
      * @param bool  $trim Trim result?
@@ -623,7 +623,7 @@ class XmlDoc
     }
 
     /**
-     * Get values from an array of nodes
+     * Get values from an array of nodes.
      *
      * @param array $nodes Nodes
      *
@@ -640,7 +640,7 @@ class XmlDoc
     }
 
     /**
-     * Explode a path string to an array
+     * Explode a path string to an array.
      *
      * @param string $path Path
      *

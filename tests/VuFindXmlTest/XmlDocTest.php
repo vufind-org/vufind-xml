@@ -1,7 +1,7 @@
 <?php
 
 /**
- * XML Handling Test Class
+ * XML Handling Test Class.
  *
  * PHP version 8
  *
@@ -34,7 +34,7 @@ use VuFindXml\Notation;
 use VuFindXml\XmlDoc;
 
 /**
- * XML Handling Test Class
+ * XML Handling Test Class.
  *
  * @category VuFindXml
  * @package  Tests
